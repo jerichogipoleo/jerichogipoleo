@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ekko2.png" align="center" style="width: 200" />
+  <img src="ekko.png" align="center" style="width: 200" />
 </div>  
   
 
