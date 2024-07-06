@@ -6,7 +6,7 @@
 ### <div align="center">Hi! I'm Jericho a BSIT-MWA student at National University.</div>  
   
 
-- I’m currently working at [Accenture](https://www.bing.com/ck/a?!&&p=1b92b03b5c6b000eJmltdHM9MTcxOTI3MzYwMCZpZ3VpZD0wODYyOWY5OS1iMzRlLTYwOGQtMmJlNy04YjMxYjIxYzYxYzUmaW5zaWQ9NTI1MA&ptn=3&ver=2&hsh=3&fclid=08629f99-b34e-608d-2be7-8b31b21c61c5&psq=accenture&u=a1aHR0cHM6Ly93d3cuYWNjZW50dXJlLmNvbS9waC1lbi9hYm91dC9jb21wYW55L3BoaWxpcHBpbmVz&ntb=1).  
+- I’m currently looking for a job
   
 
 - I’m currently learning Python and E-Commerce.  
